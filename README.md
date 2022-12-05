@@ -10,3 +10,4 @@ Models include:
 - MIx CNN which uses an RNN unit and a 1D Convolution layer.
 
 All the models use Dropout to achieve better peformance.
+Accuracies as high as 0.975 are observed.
